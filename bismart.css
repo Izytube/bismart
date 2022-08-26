@@ -1,0 +1,211 @@
+h1{
+	color: blue;
+}
+
+body{ background-color: white;
+
+
+}
+
+#firstdiv {
+	background-color: #001440;
+	height: 250px;
+	width: 100%;
+	color: white;
+	padding: 10px;
+	border-radius: 2px;
+}
+
+#nav {
+	background-color: #001440;
+	width: 100%;
+	margin-top: 0px;
+	margin:right;
+	padding-left: 700px;
+
+}
+
+ #nav #li{
+ 	font-size: 15px;
+ 	font-family: sans-serif;
+	color: white;
+	margin-right: 20px
+
+}
+
+#li a{
+
+	text-decoration: none;
+	color: white;
+}
+
+#nav button{
+
+	margin-top: -12px;
+	color: white;
+	width: 70px;
+	height: 27px;
+	background-color: blue;
+	border-radius: 6px;
+
+}
+
+#ul{
+
+	display: flex;
+	margin:center;
+	list-style: none;
+}
+
+#li a:hover{
+	color:yellow;
+	size: 20px;
+}
+
+#seconddiv {
+	font-family: sans-serif;
+	padding: 2%;
+	background-color: #bfc1c2;
+	border-radius: 2px;
+	width: 100%;
+
+}
+
+#seconddiv #four-divs{
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+#seconddiv #blue {
+	color: blue;
+	text-align: center;
+
+
+}
+
+#seconddiv #orange{
+	color: orange;
+	text-align: center;
+}
+
+#firstdiv #btn{
+	text-align: center;
+	padding: 40px;
+}
+
+ #btn button{
+	color: red;
+	margin: center;
+	height: 45px;
+	width: 150px;
+	color: white;
+	background-color: blue;
+	border-color: 1px red;
+	border-radius: 4px;
+}
+
+#first-sub-div {
+	background-color: #003980;
+	height: 120px;
+	width: 200px;
+	border-color: 3px black;
+	border-radius: 10px;
+	padding: 20px;
+}
+#first-sub-div #white{
+	color: white;
+	text-align: center;
+}
+#first-sub-div #orange1
+{
+	color: orange;
+	text-align: center;
+}
+
+#second-sub-div {
+	margin: right;
+	background-color: white;
+	height: 120px;
+	width: 200px;
+	border-color: 3px black;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#second-sub-div #orange2
+{
+	color: orange;
+	text-align: center;
+	}
+
+#second-sub-div #black2
+{
+	color: black;
+		text-align: center;
+		padding-top: 16px;
+}
+
+#third-sub-div {
+	background-color: white;
+	height: 120px;
+	width: 200px;
+	border-color: black;
+	border-radius: 10px;
+	padding: 20px;
+	
+}
+
+
+#third-sub-div #orange2
+{
+	color: orange;
+	text-align: center;
+	}
+
+#third-sub-div #black2
+{
+		color: black;
+		text-align: center;
+
+}
+
+#fourth-sub-div {
+	background-color: white;
+	height: 120px;
+	width: 200px;
+	border-color: 3px black;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#fourth-sub-div #black2
+{
+		color: black;
+		text-align: center;
+}
+
+#fourth-sub-div #orange2
+{
+		color: orange;
+		text-align: center;
+}
+
+#third-div {
+	text-align: center;
+	background-color: #785e3f;
+	border-radius: 2px;
+	padding: 2%;
+	width: 100%;
+}
+
+#third-div #third-orange {
+	color: orange;
+}
+
+}
+
+#third-div #third-white {
+	color: white;
+}
